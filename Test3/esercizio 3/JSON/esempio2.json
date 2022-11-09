@@ -1,0 +1,120 @@
+{
+    "studenti": [
+        {
+            "id": 1,
+            "nome": "Alessandro",
+            "cognome": "Finizio",
+            "corso": 622,
+            "libriLetti": [
+                {
+                    "libro1": "Harry Potter e la pietra filosofale",
+                    "libro2": "Harry Potter e l'ordine della fenice",
+                    "libro3": "it"
+                }
+               ],
+               "filmVisti": [
+                {
+                    "film1": "Avengers",
+                    "film2": "Avatar",
+                    "film3": "Harry Potter"
+                }
+               ],
+               "videogiochi": [
+                {
+                    "videogioco1": "God of War",
+                    "videogioco2": "Overwatch",
+                    "videogioco3": "League of Legends"
+    
+    
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "nome": "Alessia",
+            "cognome": "Lacitignola",
+            "corso": 622,
+            "libriLetti": [
+                {
+                    "libro1": "Harry Potter e la camera dei segreti",
+                    "libro2": "Le cronache di narnia",
+                    "libro3": "Eragon"
+                }
+               ],
+               "filmVisti": [
+                {
+                    "film1": "Avengers End Game",
+                    "film2": "Avatar",
+                    "film3": "La principessa e il ranocchio"
+                }
+               ],
+               "videogiochi": [
+                {
+                    "videogioco1": "Call of Duty",
+                    "videogioco2": "Escape from Tarkov",
+                    "videogioco3": "Battlefield 3"
+      
+      
+                }
+               ]
+        },
+        {
+            "id": 3,
+            "nome": "Cosimo",
+            "cognome": "Gargiullo",
+            "corso": 622,
+            "libriLetti": [
+                {
+                    "libro1": "cinquanta sfumature di rosso",
+                    "libro2": "Cinquanta sfumature di nero",
+                    "libro3": "Cinquanta sfumature di grigio"
+                }
+               ],
+               "filmVisti": [
+                {
+                    "film1": "Rapunzel",
+                    "film2": "Cenerentola",
+                    "film3": "Barbie il lago dei cigni"
+                }
+               ],
+               "videogiochi": [
+                {
+                    "videogioco1": "I puffi",
+                    "videogioco2": "Hello Kitty Online",
+                    "videogioco3": "The sims"
+      
+      
+                }
+               ]
+        },
+        {
+            "id": 4,
+            "nome": "Flavio",
+            "cognome": "Cirillo",
+            "corso": 622,
+            "libriLetti": [
+                {
+                    "libro1": "Harry Potter e la pietra filosofale",
+                    "libro2": "Harry Potter e l'ordine della fenice",
+                    "libro3": "it"
+                }
+               ],
+               "filmVisti": [
+                {
+                    "film1": "Avengers",
+                    "film2": "Avatar",
+                    "film3": "Harry Potter"
+                }
+               ],
+               "videogiochi": [
+                {
+                    "videogioco1": "God of War",
+                    "videogioco2": "Overwatch",
+                    "videogioco3": "League of Legends"
+    
+    
+                }
+            ]
+        } 
+    ]   
+}

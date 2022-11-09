@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "nome": "Angelo",
+        "cognome": "Midolo",
+        "corso": 622
+    },
+    {
+        "id": 2,
+        "nome": "Cosimo",
+        "cognome": "Gargiullo",
+        "corso": 622
+    },
+    {
+        "id": 3,
+        "nome": "Flavio",
+        "cognome": "Cirillo",
+        "corso": 622
+    },
+    {
+        "id": 4,
+        "nome": "Mattia",
+        "cognome": "Cannizzaro",
+        "corso": 622
+    },
+    {
+        "id": 4,
+        "nome": "Alessandro",
+        "cognome": "Finizio",
+        "corso": 622
+    },
+    {
+        "id": 5,
+        "nome": "Pasquale",
+        "cognome": "Capuano",
+        "corso": 622
+    },
+    {
+        "id": 6,
+        "nome": "Sara",
+        "cognome": "Cirone",
+        "corso": 622
+    }
+]
